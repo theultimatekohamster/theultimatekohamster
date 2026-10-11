@@ -1,3 +1,5 @@
+$$ \color{#51d7eb}{ \huge \text{ IT / SHE / HE} $$
+
 <p align="center">ITノSHE ノ HE
 <p align="center">  ⋆ 19
 <p align="center">itrapped fictkin
