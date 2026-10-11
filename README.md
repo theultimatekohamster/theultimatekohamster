@@ -9,10 +9,7 @@ $$ \color{#8395b0}{ \small \text{ itrapped fictkin }} $$
 <details>
   <summary
 
-
-$$ \color{#9db8ff}{ \small \text{ this hamster defiantly doesnt take your money, don't look here }} $$ 
-
-    
-</summary>
+>$$ \color{#ec3a89}{ \huge \text{ his hamster defiantly doesnt take your money, don't look here}} $$
+></summary>
   
 <p align="center"><a href="https://hits.sh/github.com/theultimatekohamster/"><img alt="Hits" src="https://hits.sh/github.com/theultimatekohamster.svg?label=MONEY&color=1db397"/></a>
