@@ -9,7 +9,9 @@ $$ \color{#8395b0}{ \small \text{ itrapped fictkin }} $$
 <details>
   <summary
 
+
 $$ \color{#9db8ff}{ \small \text{ this hamster defiantly doesnt take your money, don't look here }} $$ 
+
     
 </summary>
   
