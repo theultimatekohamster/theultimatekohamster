@@ -1,4 +1,3 @@
-$$ \color{#f6336d}{ \huge \text{ "It's not self-hatred anymore. it's apathy" }} $$
 
 <p align="center">ITノSHE ノ HE
 <p align="center">  ⋆ 19
