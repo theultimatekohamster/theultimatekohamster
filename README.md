@@ -1,7 +1,6 @@
-$$ \color{#51d7eb}{ \huge \text{ ITノSHE ノ HE} $$
-$$ \color{#7ce4f4}{ \huge \text{ ⋆ 19} $$
-$$ \color{#51d7eb}{ \huge \text{ itrapped fictkin} $$
-
+<p align="center">ITノSHE ノ HE
+<p align="center">  ⋆ 19
+<p align="center">itrapped fictkin
 
 <p align="center"><img width="220" height="300" alt="IMG_3018-removebg-preview" src="https://github.com/user-attachments/assets/25a3c079-e63a-450e-b4c5-a25452434641" />
 
