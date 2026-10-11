@@ -1,5 +1,4 @@
-
-<p align="center">ITノSHE ノ HE
+$$ \color{#51d7eb}{ \medium \text{ ITノSHE ノ HE }} $$
 <p align="center">  ⋆ 19
 <p align="center">itrapped fictkin
 
