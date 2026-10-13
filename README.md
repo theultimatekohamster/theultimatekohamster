@@ -2,7 +2,6 @@ $$ \color{#8395b0}{ \small \text{ hey its me itrapped }} $$
 $$ \color{#8395b0}{ \small \text{ give me robux }} $$
 $$ \color{#8395b0}{ \small \text{ everything }} $$
 
-<p align="center"><img width="220" height="300" alt="IMG_3018-removebg-preview" src="https://github.com/user-attachments/assets/25a3c079-e63a-450e-b4c5-a25452434641" />
 
 
 
