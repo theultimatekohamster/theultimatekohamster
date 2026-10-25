@@ -8,12 +8,15 @@
 
 layout made by the cool and awesome [kniferrific](https://github.com/kniferrific) !!!
 
+<details>
+<summary>this hamster definitely doesn't take ur money, don't look here</summary>
+
+<p align="center">
+<a href="https://hits.sh/github.com/theultimatekohamster/"><img alt="Hits" src="https://hits.sh/github.com/theultimatekohamster.svg?label=MONEY&color=1db397"/></a>
+</p>
+
+</details>
+
 <img src="https://64.media.tumblr.com/c9278089d3acf988ca856e2922d010bf/3062fdf5bc647bdf-48/s2048x3072/c01b8c0d7ac030af74943a485eefc992914e9046.pnj">
 
 </div>
-<details>
-  <summary
-<p align="center"> this hamster defiantly doesn't take your money, don't look here <img width="16" height="16" alt="heart_blue" src="https://github.com/user-attachments/assets/5a4313bc-8eef-4a6e-b347-175d34834e00" />
-   </summary> 
-  
-<p align="center"><a href="https://hits.sh/github.com/theultimatekohamster/"><img alt="Hits" src="https://hits.sh/github.com/theultimatekohamster.svg?label=MONEY&color=1db397"/></a>
